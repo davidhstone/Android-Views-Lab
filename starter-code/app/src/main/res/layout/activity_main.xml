@@ -11,10 +11,261 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical"
+        android:gravity="left"
         >
 
        <!-- Put your views inside this LinearLayout -->
+        <TextView
+            android:id="@+id/textview_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="This is Text View Number 1"
+            android:textSize="26sp"
+            android:textStyle="bold"
 
+            />
+        <TextView
+            android:id="@+id/textview_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="This is Text View Number 2"
+            android:textSize="20sp"
+            android:textStyle="italic"
+
+            />
+        <Button
+            android:id="@+id/button_click_me"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textSize="20sp"
+            />
+        <TextView
+            android:id="@+id/textview_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="This is Text View Number 3"
+            android:textSize="26sp"
+            android:textStyle="bold"
+
+            />
+        <TextView
+            android:id="@+id/textview_4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="This is Text View Number 4"
+            android:textSize="20sp"
+            android:textStyle="italic"
+
+            />
+        <Button
+            android:id="@+id/button_click_me2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textSize="20sp"
+            />
+        <TextView
+            android:id="@+id/textview_5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="This is Text View Number 5"
+            android:textSize="26sp"
+            android:textStyle="bold"
+
+            />
+        <TextView
+            android:id="@+id/textview_6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="This is Text View Number 6"
+            android:textSize="20sp"
+            android:textStyle="italic"
+
+            />
+        <Button
+            android:id="@+id/button_click_me3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textSize="20sp"
+            />
+        <TextView
+            android:id="@+id/textview_7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="This is Text View Number 7"
+            android:textSize="26sp"
+            android:textStyle="bold"
+
+            />
+        <TextView
+            android:id="@+id/textview_8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="This is Text View Number 8"
+            android:textSize="20sp"
+            android:textStyle="italic"
+
+            />
+        <Button
+            android:id="@+id/button_click_me4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textSize="20sp"
+            />
+        <TextView
+            android:id="@+id/textview_9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="This is Text View Number 9"
+            android:textSize="26sp"
+            android:textStyle="bold"
+
+            />
+        <TextView
+            android:id="@+id/textview_10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="This is Text View Number 10"
+            android:textSize="20sp"
+            android:textStyle="italic"
+
+            />
+        <Button
+            android:id="@+id/button_click_me5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textSize="20sp"
+            />
+//second set of 5 below
+        <TextView
+            android:id="@+id/textview_11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="This is Text View Number 11"
+            android:textSize="26sp"
+            android:textStyle="bold"
+
+            />
+        <TextView
+            android:id="@+id/textview_12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="This is Text View Number 12"
+            android:textSize="20sp"
+            android:textStyle="italic"
+
+            />
+        <Button
+            android:id="@+id/button_click_me6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textSize="20sp"
+            />
+        <TextView
+            android:id="@+id/textview_13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="This is Text View Number 13"
+            android:textSize="26sp"
+            android:textStyle="bold"
+
+            />
+        <TextView
+            android:id="@+id/textview_14"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="This is Text View Number 14"
+            android:textSize="20sp"
+            android:textStyle="italic"
+
+            />
+        <Button
+            android:id="@+id/button_click_me7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textSize="20sp"
+            />
+        <TextView
+            android:id="@+id/textview_15"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="This is Text View Number 15"
+            android:textSize="26sp"
+            android:textStyle="bold"
+
+            />
+        <TextView
+            android:id="@+id/textview_16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="This is Text View Number 16"
+            android:textSize="20sp"
+            android:textStyle="italic"
+
+            />
+        <Button
+            android:id="@+id/button_click_me8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textSize="20sp"
+            />
+        <TextView
+            android:id="@+id/textview_17"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="This is Text View Number 17"
+            android:textSize="26sp"
+            android:textStyle="bold"
+
+            />
+        <TextView
+            android:id="@+id/textview_18"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="This is Text View Number 18"
+            android:textSize="20sp"
+            android:textStyle="italic"
+
+            />
+        <Button
+            android:id="@+id/button_click_me9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textSize="20sp"
+            />
+        <TextView
+            android:id="@+id/textview_19"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="This is Text View Number 19"
+            android:textSize="26sp"
+            android:textStyle="bold"
+
+            />
+        <TextView
+            android:id="@+id/textview_20"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="This is Text View Number 20"
+            android:textSize="20sp"
+            android:textStyle="italic"
+
+            />
+        <Button
+            android:id="@+id/button_click_me10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button"
+            android:textSize="20sp"
+            />
     </LinearLayout>
 
 </ScrollView>
